@@ -25,7 +25,7 @@ How can an e-commerce company optimize sales performance, identify profitable pr
 
 ### 🔹 Overview Dashboard
 
-![Overview]("C:\Users\suman\Music\PowerBi-Dashboard\E-COMMERCE SALES & CUSTOMER ANALYTICS\Screenshots\Screenshot 2026-05-06 125752.png")
+![Overview](images/product-analysis.png)
 
 ### 🔹 Product Analysis
 
