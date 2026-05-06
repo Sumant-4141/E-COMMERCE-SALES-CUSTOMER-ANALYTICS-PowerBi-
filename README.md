@@ -21,22 +21,6 @@ How can an e-commerce company optimize sales performance, identify profitable pr
 
 ---
 
-## 📷 Dashboard Preview
-
-### 🔹 Overview Dashboard
-
-![Overview](images/product-analysis.png)
-
-### 🔹 Product Analysis
-
-![Product](images/product-analysis.png)
-
-### 🔹 Regional Insights
-
-![Region](images/region-analysis.png)
-
----
-
 ## 🔍 Key Insights
 
 * 📈 Sales show consistent growth across months, peaking in Q4
@@ -59,12 +43,6 @@ How can an e-commerce company optimize sales performance, identify profitable pr
 * `ecommerce_dashboard.pbix`
 * Dataset file
 * Dashboard images
-
----
-
-## 🌐 Live Dashboard
-
-(Add Power BI link here if published)
 
 ---
 
